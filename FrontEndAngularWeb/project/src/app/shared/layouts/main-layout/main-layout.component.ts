@@ -183,7 +183,7 @@ import { AuthService, User } from '../../../core/services/auth.service';
     .nav-item:hover {
       background-color: var(--sidebar-hover);
     }
-
+//
     .nav-item.active {
       background-color: var(--primary-color);
     }
